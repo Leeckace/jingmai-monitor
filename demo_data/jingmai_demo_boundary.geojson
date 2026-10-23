@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "name": "jingmai_demo_boundary",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "景迈山古茶林核心区（示例边界）",
+        "area_km2": 25.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              99.9956,
+              22.127567
+            ],
+            [
+              100.044075,
+              22.127264
+            ],
+            [
+              100.044408,
+              22.172429
+            ],
+            [
+              99.995917,
+              22.172732
+            ],
+            [
+              99.9956,
+              22.127567
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

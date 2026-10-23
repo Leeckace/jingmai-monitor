@@ -1,0 +1,163 @@
+[
+  {
+    "year": 2017,
+    "tag": "1—4 月",
+    "scene": "S2A_47QPE_20170209_0_L2A",
+    "datetime": "2017-02-09T03:55:53.139000Z",
+    "cloud": 0.031022,
+    "quality": {
+      "has_scl": true,
+      "bad_pixels": 2640,
+      "valid_ratio": 0.9926666666666667
+    },
+    "auto_soil": 0.3696181207895279,
+    "auto_veg": 0.8629976511001587,
+    "fixed_soil": 0.1,
+    "fixed_veg": 0.9
+  },
+  {
+    "year": 2018,
+    "tag": "1—4 月",
+    "scene": "S2B_47QPE_20180301_1_L2A",
+    "datetime": "2018-03-01T04:02:01.605000Z",
+    "cloud": 0.013059,
+    "quality": {
+      "has_scl": true,
+      "bad_pixels": 1460,
+      "valid_ratio": 0.9959444444444444
+    },
+    "auto_soil": 0.3113105297088623,
+    "auto_veg": 0.8891721367835999,
+    "fixed_soil": 0.1,
+    "fixed_veg": 0.9
+  },
+  {
+    "year": 2019,
+    "tag": "1—4 月",
+    "scene": "S2A_47QPE_20190311_0_L2A",
+    "datetime": "2019-03-11T04:14:39.366000Z",
+    "cloud": 0.01855,
+    "quality": {
+      "has_scl": true,
+      "bad_pixels": 2076,
+      "valid_ratio": 0.9942333333333333
+    },
+    "auto_soil": 0.34486733078956605,
+    "auto_veg": 0.8423362255096435,
+    "fixed_soil": 0.1,
+    "fixed_veg": 0.9
+  },
+  {
+    "year": 2020,
+    "tag": "1—4 月",
+    "scene": "S2B_47QPE_20200310_1_L2A",
+    "datetime": "2020-03-10T04:02:08.476000Z",
+    "cloud": 3e-06,
+    "quality": {
+      "has_scl": true,
+      "bad_pixels": 1496,
+      "valid_ratio": 0.9958444444444444
+    },
+    "auto_soil": 0.26901422441005707,
+    "auto_veg": 0.8912333846092224,
+    "fixed_soil": 0.1,
+    "fixed_veg": 0.9
+  },
+  {
+    "year": 2021,
+    "tag": "1—4 月",
+    "scene": "S2B_47QPE_20210305_1_L2A",
+    "datetime": "2021-03-05T04:02:09.648000Z",
+    "cloud": 0.021967,
+    "quality": {
+      "has_scl": true,
+      "bad_pixels": 1504,
+      "valid_ratio": 0.9958222222222223
+    },
+    "auto_soil": 0.2818887338042259,
+    "auto_veg": 0.8809270232915878,
+    "fixed_soil": 0.1,
+    "fixed_veg": 0.9
+  },
+  {
+    "year": 2022,
+    "tag": "1—4 月",
+    "scene": "S2A_47QPE_20220213_0_L2A",
+    "datetime": "2022-02-13T04:02:10.311000Z",
+    "cloud": 0.003776,
+    "quality": {
+      "has_scl": true,
+      "bad_pixels": 1968,
+      "valid_ratio": 0.9945333333333334,
+      "offset": 1000
+    },
+    "auto_soil": 0.381,
+    "auto_veg": 0.864,
+    "fixed_soil": 0.1,
+    "fixed_veg": 0.9
+  },
+  {
+    "year": 2023,
+    "tag": "1—4 月",
+    "scene": "S2B_47QPE_20230213_0_L2A",
+    "datetime": "2023-02-13T04:02:09.065000Z",
+    "cloud": 0,
+    "quality": {
+      "has_scl": true,
+      "bad_pixels": 2944,
+      "valid_ratio": 0.9918222222222223
+    },
+    "auto_soil": 0.35187501460313797,
+    "auto_veg": 0.8535983711481094,
+    "fixed_soil": 0.1,
+    "fixed_veg": 0.9
+  },
+  {
+    "year": 2024,
+    "tag": "1—4 月",
+    "scene": "S2A_47QPE_20240413_0_L2A",
+    "datetime": "2024-04-13T04:02:12.222000Z",
+    "cloud": 0,
+    "quality": {
+      "has_scl": true,
+      "bad_pixels": 600,
+      "valid_ratio": 0.9983333333333333
+    },
+    "auto_soil": 0.29606039822101593,
+    "auto_veg": 0.8376114666461945,
+    "fixed_soil": 0.1,
+    "fixed_veg": 0.9
+  },
+  {
+    "year": 2025,
+    "tag": "1—4 月",
+    "scene": "S2C_47QPE_20250217_0_L2A",
+    "datetime": "2025-02-17T04:02:33.488000Z",
+    "cloud": 3e-06,
+    "quality": {
+      "has_scl": true,
+      "bad_pixels": 1960,
+      "valid_ratio": 0.9945555555555555
+    },
+    "auto_soil": 0.40246294140815736,
+    "auto_veg": 0.8666278958320618,
+    "fixed_soil": 0.1,
+    "fixed_veg": 0.9
+  },
+  {
+    "year": 2026,
+    "tag": "1—4 月",
+    "scene": "S2A_47QPE_20260326_0_L2A",
+    "datetime": "2026-03-26T04:02:31.618000Z",
+    "cloud": 0.000262,
+    "quality": {
+      "has_scl": true,
+      "bad_pixels": 896,
+      "valid_ratio": 0.9975111111111111
+    },
+    "auto_soil": 0.350567889213562,
+    "auto_veg": 0.7967023849487305,
+    "fixed_soil": 0.1,
+    "fixed_veg": 0.9
+  }
+]
